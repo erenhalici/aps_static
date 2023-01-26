@@ -288,6 +288,20 @@ h2 {
     height: 128px;
 }
 
+.announcements-home a:hover {
+    color: inherit !important;
+}
+
+.announcement-item:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+.link-show-all,
+a.link-show-all:hover {
+    color: #009170 !important;
+}
+
 .btn-big {
     font-size: 16pt;
     padding-left: 3rem !important;
