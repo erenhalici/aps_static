@@ -297,6 +297,11 @@ h2 {
     border-radius: 10px;
 }
 
+.faq {
+    /*    border: 1px solid #eee;*/
+    border-radius: 10px;
+}
+
 .link-show-all,
 a.link-show-all:hover {
     color: #009170 !important;
