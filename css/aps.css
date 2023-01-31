@@ -197,6 +197,22 @@ h2 {
     color: #00755a;
 }
 
+.bg-yellow {
+    background-color: #e6ab0b !important;
+}
+
+.bg-orange {
+    background-color: #e95a26 !important;
+}
+
+.bg-purple {
+    background-color: #9784bd !important;
+}
+
+.bg-green {
+    background-color: #009170 !important;
+}
+
 .banner {
     height: 384px;
     width: 100%;
