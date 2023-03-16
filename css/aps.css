@@ -214,9 +214,25 @@ h2 {
 }
 
 .banner {
-    height: 384px;
+    /*    height: 320px;*/
     width: 100%;
     overflow: hidden;
+}
+
+.banner img {
+    height: 384px;
+}
+
+@media (max-width: 512px) {
+    .banner img {
+        height: 192px;
+    }
+}
+
+@media (min-width: 1440px) {
+    .banner img {
+        height: 512px;
+    }
 }
 
 .slick-prev:before {
